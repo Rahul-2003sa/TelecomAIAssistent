@@ -1,0 +1,12 @@
+streamlit
+langgraph
+langchain
+crewai
+pyautogen
+llama-index
+pandas
+sqlalchemy
+chromadb
+openai
+python-dotenv
+poetry
